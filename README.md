@@ -47,13 +47,14 @@ pip
 Git
 📥 Installation
 # Clone repository
-git clone https://github.com/yourusername/fetal-health-prediction.git
-
+git clone https:[//github.com/yourusername/fetal-health-prediction.git
+](https://github.com/Anujkadam1881)
 # Navigate into folder
 cd fetal-health-prediction
 
 # Create virtual environment
 python -m venv venv
+
 
 # Activate environment
 # Windows:
