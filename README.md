@@ -47,8 +47,8 @@ pip
 Git
 📥 Installation
 # Clone repository
-git clone https:[//github.com/yourusername/fetal-health-prediction.git
-](https://github.com/Anujkadam1881)
+git clone https:[[//github.com/yourusername/fetal-health-prediction.git
+](https://github.com/Anujkadam1881)](https://github.com/Anujkadam1881/FetalAI-Using-Machine-Learning?tab=readme-ov-file)
 # Navigate into folder
 cd fetal-health-prediction
 
